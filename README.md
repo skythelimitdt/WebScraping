@@ -36,7 +36,7 @@ Scrape and analyze [Mars weather data](https://static.bc-edx.com/data/web/mars_f
         - Consider how many days elapse on Earth in the time that Mars circles the Sun once. Visually estimate the result by plotting the daily minimum temperature of each         
           observation.
 
-#References:
+## References:
 chatgpt to create a scatter plot with hovering data
 chart = px.scatter(weather_df,
                 x='sol', 
