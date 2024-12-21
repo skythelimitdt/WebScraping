@@ -3,9 +3,9 @@ On this project, we will extract information via both automated browsing with Sp
 
 You will submit the following deliverables:
 
-### Deliverable 1: Scrape titles and preview text from Mars news articles.
+#### Deliverable 1: Scrape titles and preview text from Mars news articles.
 
-Deliverable 2: Scrape and analyze Mars weather data, which exists in a table.
+#### Deliverable 2: Scrape and analyze Mars weather data, which exists in a table.
 
 ## Part 1: Scrape Titles and Preview Text from Mars News
 Scrape the [Mars News website](https://static.bc-edx.com/data/web/mars_news/index.html) based on these instructions:
